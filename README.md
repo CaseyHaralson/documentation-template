@@ -95,7 +95,7 @@ medium: [url, book, paper, thought, conversation, meeting]
 
 ### 5. Project Creation
 
-- [Project Template](./Project-Template.md) - Use this as a starting point for new documentation project README files
+- [Project Template](./Projects/Project-Template.md) - Use this as a starting point for new documentation project README files
 
 ## AI Assistant Instructions
 
