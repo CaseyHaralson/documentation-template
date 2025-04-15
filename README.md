@@ -1,4 +1,4 @@
-# Documentation Project
+# documentation-template
 
 This is a documentation project organized using the PARA method, with Zettelkasten principles for individual notes and MOCs (Maps of Content) as navigation hubs.
 
